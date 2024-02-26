@@ -1,4 +1,4 @@
-This Assignment explains how to query the "World" database using SQL queries. 
+This Assignment explains how to query the "World" database using SQL statements. 
 The "World" database contains tables such as Country, CountryLanguage, and City, which store information about countries, languages spoken in those countries, and cities respectively.
 
 Prerequisites
